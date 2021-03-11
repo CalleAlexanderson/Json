@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Location",
+        "artist": "AJR",
+        "img": "",
+        "date": "11 augusti 2017"
+    },
+    {
+        "title": "Wishing Well",
+        "artist": "Juice WRLD",
+        "img": "",
+        "date": "10 juli 2020",
+        "album": "Legends Never Die"
+    },
+    {
+        "title": "Notorious Thugs",
+        "artist": "The Notorious B.I.G.",
+        "img": "",
+        "date": "4 mars 1997",
+        "album": "Life After Death (2014 Remastered Edition)"
+    },
+    {
+        "title": "DNA.",
+        "artist": "Kendrick Lamar",
+        "img": "",
+        "date": "14 april 2017",
+        "album": "DAMN."
+    },
+    {
+        "title": "Three-Thrity",
+        "artist": "AJR",
+        "img": "",
+        "date": "21 september 2018",
+        "album": "The Click (Deluxe Edition)"
+    },
+    {
+        "title": "Finale",
+        "artist": "AJR",
+        "img": "",
+        "date": "29 april 2019",
+        "album": "Neotheater"
+    },
+    {
+        "title": "Waiting For Love",
+        "artist": "Avicii",
+        "img": "",
+        "date": "2 oktober 2015",
+        "album": "Stories"
+    }
+]
