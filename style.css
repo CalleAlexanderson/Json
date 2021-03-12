@@ -1,0 +1,25 @@
+* {
+    background-color: #1e272c;
+}
+
+img{
+    max-width: 12.5vw;
+    min-width: 12.5vw;
+    grid-row: 1/5;
+}
+
+.list{
+    display: grid;
+    grid-template-columns: 25vw 25vw 25vw 25vw;
+    overflow: hidden;
+}
+
+.text{
+    color: #C0C0C0;
+}
+
+.song{
+    display: grid;
+    grid-template-columns: 12.5vw 12.5vw;
+    grid-template-rows: 8vh 5vh 10vh 6vh;
+}

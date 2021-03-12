@@ -2,8 +2,9 @@
     {
         "title": "Location",
         "artist": "AJR",
-        "img": "",
-        "date": "11 augusti 2017"
+        "img": "location.jpg",
+        "date": "11 augusti 2017",
+        "album": "No album"
     },
     {
         "title": "Wishing Well",
@@ -15,36 +16,43 @@
     {
         "title": "Notorious Thugs",
         "artist": "The Notorious B.I.G.",
-        "img": "",
+        "img": "life_after_death.jpg",
         "date": "4 mars 1997",
         "album": "Life After Death (2014 Remastered Edition)"
     },
     {
         "title": "DNA.",
         "artist": "Kendrick Lamar",
-        "img": "",
+        "img": "damn.png",
         "date": "14 april 2017",
         "album": "DAMN."
     },
     {
         "title": "Three-Thrity",
         "artist": "AJR",
-        "img": "",
+        "img": "The_click.jpg",
         "date": "21 september 2018",
         "album": "The Click (Deluxe Edition)"
     },
     {
         "title": "Finale",
         "artist": "AJR",
-        "img": "",
+        "img": "neotheater.jpg",
         "date": "29 april 2019",
         "album": "Neotheater"
     },
     {
         "title": "Waiting For Love",
         "artist": "Avicii",
-        "img": "",
+        "img": "stories.jpg",
         "date": "2 oktober 2015",
         "album": "Stories"
+    },
+    {
+        "title": "7 Years",
+        "artist": "Lukas Graham",
+        "img": "LukasGraham2016.jpg",
+        "date": "1 april 2016",
+        "album": "Lukas Graham (Blue Album) [International Version]"
     }
 ]
